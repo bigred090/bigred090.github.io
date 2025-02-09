@@ -6,4 +6,4 @@ This repository contains various projects and code samples.
 
 You can play the Snow Rider 3D game [here](https://snowrider3d.com/).
 
-Enjoy!
+Enjoy and remember have fun!
