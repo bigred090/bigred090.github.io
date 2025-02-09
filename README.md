@@ -4,4 +4,3 @@
 
 # Click this for Snow Rider 3D
 
-[Snow Rider 3D](about:blank)
