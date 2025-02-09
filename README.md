@@ -1,6 +1,5 @@
 # Hi there is nothing her you just wasted your time looking this up!
 
-## <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
